@@ -1,0 +1,19 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "API Automation framework with Chai and Mocha",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Chai",
+    "Mocha",
+    "API Automation"
+  ],
+  "author": "Bharat Kumawat",
+  "license": "ISC"
+}
